@@ -2,6 +2,8 @@
 With PyxelEdit: 3D Viewer, you can display 2D sprites from pyxel edit on fake 3D. The viewer update only the files if you saved the Pyxel Edit files (Strg+S). 
 There is many settings like set to pixelated, fix edges (while you're scaling up), pin the window (so the window show on foreground for ever), etc.
 
+Build version: [Pyxel Edit 3D Viewer](https://chinafreak.itch.io/pyxel-edit-3d-viewer)
+
 
 ### Features:
 
